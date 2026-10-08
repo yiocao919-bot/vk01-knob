@@ -1,0 +1,6 @@
+*.bak
+*.before_*
+hs_*.txt
+vk01_out.txt
+*.log
+.DS_Store
